@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">MealDelivery</string>
+    <string name="page_title">MealDelivery</string>
+    <string name="name_hint">Customer Name:</string>
+    <string name="email_hint">E-mail Id:</string>
+    <string name="subsplan_hint">Subscription Plan:</string>
+    <string name="rdmonthly_title">Monthly</string>
+    <string name="rdyearly_title">Yearly</string>
+    <string name="plantype_hint">Plan Type:</string>
+    <string name="additionals_hint">Additionals:</string>
+    <string name="adddesigns_title">3L Lemonade</string>
+    <string name="addupdates_title">4L Milk</string>
+    <string name="typeofdesigns_hint">Type of Delivery:</string>
+    <string name="date_hint">Subscription Date:</string>
+    <string name="btn_title">Submit</string>
+
+
+    <string-array name="monthMeal_array">
+        <item>Cooked Meal</item>
+        <item>Uncooked Meal</item>
+    </string-array>
+
+    <string-array name="yearVeggies_array">
+        <item>Veggies with Recipe</item>
+        <item>Veggies Only</item>
+    </string-array>
+
+    <string-array name="deliveryType_array">
+        <item>Store pick-up</item>
+        <item>Community Box</item>
+        <item>Door Step</item>
+    </string-array>
+
+</resources>
